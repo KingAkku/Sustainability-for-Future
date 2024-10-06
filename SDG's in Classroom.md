@@ -32,9 +32,73 @@ Maintaining and protecting ecosystems allow using and further developing hydropo
 **Unit 2: Social Sustainability (SDGs 1, 2, 3, 4, 5, 10, 16)**
 
 
+**SDG 1: No Poverty**
+
+Sustainable Development Goal 1 is to end poverty in all forms and everywhere by 2030.
+
+_Targets_
+
+Eradicate extreme poverty.
+
+Reduce poverty by at least 50%.
+
+Implement a nationally appropriate social protection system.
+
+Equal rights to ownership , basic services , technology, and economic resources.
+
+Build resilience to environment, economic, and social disasters.
+
+
+Poverty is a main issue that has troubled many nations while impeding economic developments. Poverty is a problem that faced every where in the world. in some nations the percentage of peoples affecting poverty is more as compare to other nations. poverty is discussed in terms of money, quality of life etc… The COVID-19 pandemic has reversed some of the progress made in reducing poverty. By the end of 2022, it was estimated that 670 million people, or 8.4% of the world's population, were still living in extreme poverty.
+
+**SDG 2: Zero Hunger**
+
+Sustainable Development Goal 2 is about creating a world free of hunger by 2030.
+
+_Targets_
+
+Ensure that everyone has access to safe, nutritious food.
+
+End all forms of malnutrition, including stunting and wasting in children under five.
+
+Double the income and productivity of small-scale food producers.
+
+Ensure a sustainable food production system.
+
+Promote resilient agricultural practices.
+
+
+The global issue of hunger and food insecurity has shown an alarming increase since 2015, a trend exacerbated by a combination of factors including the pandemic, conflict, climate change, and deepening inequalities.
+Main points are
+• Keep our soil and water clean.
+• Use less water can’t waste it.
+• Know where your food comes from.
+• Understand food labeling.
+• Be a conscientious consumer.
+• Support the farmers. 
+
+**SDG 3: Good Health and Well-being**
+
+Sustainable Development Goal 3 aims to ensure healthy lives and promote well-being for all, at all ages.
+
+_Targets_
+
+Reduce maternal mortality.
+
+End all preventable deaths under five years of age.
+
+Fight communicable diseases.
+
+Reduce mortality from non-communicable diseases and promote mental health.
+
+Prevent and treat substance abuse.
+
+
+Good health and well-being aspire to ensure health and well-being for all, including a bold commitment to end the epidemics of aids, tuberculosis, malaria, and other communicable disease by 2030. Universal health coverage: providing universal health coverage.Research and development: increasing research and development. Health risk management: strengthening the capacity of all countries in health risk reduction and management. It also aims to achieve universal health coverage and provide access to safe and effective medicines and vaccines for all.
+
 **SDG 10: Reduced Inequality**
 
-Sustainable Development Goal (SDG) 10 aims to reduce inequality within and among countries.
+Sustainable Development Goal 10 aims to reduce inequality within and among countries.
  
 _Targets_
   
@@ -45,7 +109,7 @@ Inequality can be based on factors like representation, migration, and developme
 Targets for SDG 10 include eliminating discriminatory laws, policies, and practices, and adopting policies to achieve greater equality. 
   
 
-When we talk about Reducing Inequality, it's really about making sure everyone, no matter who they are or where they come from, has the same opportunities to succeed. In the classroom, this could mean discussing what inequality looks like—why some people face more challenges based on things like income, gender, or background—and brainstorming ways to help level the playing field. Students can dive into real-world examples of governments and organizations working to reduce these gaps, and even create their own initiatives to promote equality in their school or community. Imagine starting a peer tutoring program to help kids from underprivileged backgrounds, or organizing a campaign that raises awareness about discrimination. It’s about empowering students to see that they can be part of the solution.
+When we talk about Reducing Inequality, it's really about making sure everyone has the same opportunities to succeed, no matter who they are or where they come from. In the classroom, this could mean discussing what inequality looks like—why some people face more challenges based on things like income, gender, or background—and brainstorming ways to help level the playing field. Students can dive into real-world examples of governments and organizations working to reduce these gaps, and even create their own initiatives to promote equality in their school or community. Imagine starting a peer tutoring program to help kids from underprivileged backgrounds, or organizing a campaign that raises awareness about discrimination. It’s about empowering students to see that they can be part of the solution.
 
 
 
@@ -79,7 +143,7 @@ measures to eradicate forced labour, slavery and human trafficking. With these t
 the goal is to achieve full and productive employment, and decent work, for all women and men
 by 2030.
 
-**SDG 9: Industry, Innovation AND Infrastructure**
+**SDG 9: Industry, Innovation and Infrastructure**
 
 Sustainable Development Goal 9 is the goal to build resilient infrastructure, promote sustainable industrialization, and foster innovation.
 
