@@ -111,13 +111,39 @@ Targets for SDG 10 include eliminating discriminatory laws, policies, and practi
 
 When we talk about Reducing Inequality, it's really about making sure everyone has the same opportunities to succeed, no matter who they are or where they come from. In the classroom, this could mean discussing what inequality looks like—why some people face more challenges based on things like income, gender, or background—and brainstorming ways to help level the playing field. Students can dive into real-world examples of governments and organizations working to reduce these gaps, and even create their own initiatives to promote equality in their school or community. Imagine starting a peer tutoring program to help kids from underprivileged backgrounds, or organizing a campaign that raises awareness about discrimination. It’s about empowering students to see that they can be part of the solution.
 
+**SDG 16: Peace and Justice Strong Institutions**
 
+Sustainable Development Goal 16 is about promoting peaceful and inclusive societies, providing access to justice for all and building effective, accountable and inclusive institutions at all levels.
+
+_Targets_
+
+Reduce violence everywhere.
+
+Protect children from abuse, exploitation, trafficking and violence.
+
+Equal access to justice.
+
+Combat organized crime and illicit financial and arms flows.
+
+Substantially reduce corruption and bribery.
+
+Develop effective, accountable, and transparent institutions.
+
+Ensure responsive, inclusive and representative decision-making.
+
+Strengthen the participation in global governance.
+
+Provide universal legal identity.
+
+Ensure public access to information and protect fundamental freedoms.
+
+One cannot underestimate the importance of SDG 16 as the goal aims to address issues of peace, justice, and strong institutions which are fundamental to any healthy and just society. In their absence, people cannot be expected to feel protected, respectful towards their leaders, or trust in the mechanisms that are designed to shield them. By implementing SDG 16, we can be able to build societies where every citizen gets the chance to prosper and live without fear. This goal assists other SDGs as well. For instance, if the levels of violence are lowered, more resources and attention can be directed toward education, health care, and even economic development. SDG 16 is geared towards the creation of a more just and tolerant world for all.
 
 
 **Unit 3: Economic Sustainability (SDGs 8, 9, 11, 12, 17)**
 
 
-**SDG 8:Decent Work And Economic Growth**
+**SDG 8: Decent Work and Economic Growth**
 
 Sustainable Development Goal 8 is a United Nations goal to promote inclusive and sustainable economic growth, employment, and decent work for all.
 
@@ -197,4 +223,34 @@ Provide access to basic services, green jobs, and a better quality of life
 
  Learning about Responsible Consumption and Production helps students think about how the choices we make—what we buy, how we use things, and how we get rid of them—impact the world. In subjects like economics or business, students could explore how companies are finding creative ways to reduce waste, use less energy, or make products that are better for the environment. But it’s not just businesses; students can make changes, too. In home economics or practical lessons, they might tackle food waste in the cafeteria or create cool projects from recycled materials. Schools could even run a “zero-waste” challenge, encouraging students to bring reusable containers and cut down on single-use plastics. It’s about showing students that being mindful of what we use and how we use it can help protect the planet for the future.
 
+**SDG 17: Partnership to Achieve the Goal**
+
+Sustainable Development Goal 17 calls on Member States to significantly enhance the availability of reliable, high-quality and timely disaggregated data as well as to further develop measurements of progress, and support statistical capacity building in developing countries.
+
+_Targets_
+
+Mobilize resources to improve domestic revenue collection.
+
+Implement all development assistance commitments.
+
+Mobilize financial resources for developing countries.
+
+Assist developing countries in attaining debt sustainability.
+
+Invest in least-developed countries.
+
+Knowledge sharing and cooperation for access to science, technology and innovation.
+
+Promote sustainable technologies to developing countries.
+
+Strengthen the science, technology and innovation capacity for least-developed countries.
+
+Enhanced SDG capacity in developing countries.
+
+Promote a universal trading system under the WTO.
+
+Increase the exports of developing countries.
+ 
+
+Development Goal seventeen focuses on building synergies and partnerships between governments, businesses as well as organizations for the purpose of enhancing all sdgs, including sdg 16. This means that no country or organization can achieve these global goals by itself—collaborative approach is very important. This means working together within local, national, and international systems in order to mitigate the impediments to sustainable development in terms of resources, information, and assistance.
 
