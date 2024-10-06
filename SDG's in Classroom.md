@@ -1,6 +1,6 @@
 # Sustainability-for-Future
 
-**Module Overview:**
+**Module Overview :**
 This module will introduce students to the United Nations Sustainable Development Goals (SDGs), linking each goal to core scientific concepts. Through this module, students will learn how scientific knowledge and technological innovation contribute to solving global challenges such as climate change, poverty, inequality, and environmental degradation.
 
 **Unit 1: Environmental Sustainability (SDGs 6, 7, 13, 14, 15)**
