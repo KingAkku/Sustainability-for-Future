@@ -1,5 +1,11 @@
 # Sustainability-for-Future
 
+**Module Overview:**
+This module will introduce students to the United Nations Sustainable Development Goals (SDGs), linking each goal to core scientific concepts. Through this module, students will learn how scientific knowledge and technological innovation contribute to solving global challenges such as climate change, poverty, inequality, and environmental degradation.
+
+**Unit 1: Environmental Sustainability (SDGs 6, 7, 13, 14, 15)**
+
+
 **SDG 7: Affordable and Clean Energy**
 
 Sustainable Development Goal (SDG) 7 aims to ensure access to affordable, reliable, sustainable and modern energy for all.
@@ -21,6 +27,31 @@ By 2030, expand infrastructure and upgrade technology for supplying modern and s
 
 Lack of access to energy supplies and transformation systems is a constraint to human and economic development. The environment provides a series of renewable and nonrenewable energy sources i.e. solar, wind, hydropower, geothermal, biofuels, natural gas, coal, petroleum and uranium. Increased use of fossil fuels without actions to mitigate greenhouse gases will have global climate change implications. Energy efficiency and increase use of renewables contribute to climate change mitigation and disaster risk reduction.
 Maintaining and protecting ecosystems allow using and further developing hydropower sources of electricity and bioenergy.
+
+
+**Unit 2: Social Sustainability (SDGs 1, 2, 3, 4, 5, 10, 16)**
+
+
+**SDG 10: Reduced Inequality**
+
+Sustainable Development Goal (SDG) 10 aims to reduce inequality within and among countries.
+ 
+_Targets_
+  
+Inequality can be based on factors like age, gender, disability, race, ethnicity, origin, religion, or economic status. 
+  
+Inequality can be based on factors like representation, migration, and development assistance.
+  
+Targets for SDG 10 include eliminating discriminatory laws, policies, and practices, and adopting policies to achieve greater equality. 
+  
+
+When we talk about Reducing Inequality, it's really about making sure everyone, no matter who they are or where they come from, has the same opportunities to succeed. In the classroom, this could mean discussing what inequality looks like—why some people face more challenges based on things like income, gender, or background—and brainstorming ways to help level the playing field. Students can dive into real-world examples of governments and organizations working to reduce these gaps, and even create their own initiatives to promote equality in their school or community. Imagine starting a peer tutoring program to help kids from underprivileged backgrounds, or organizing a campaign that raises awareness about discrimination. It’s about empowering students to see that they can be part of the solution.
+
+
+
+
+**Unit 3: Economic Sustainability (SDGs 8, 9, 11, 12, 17)**
+
 
 **SDG 8:Decent Work And Economic Growth**
 
@@ -65,20 +96,6 @@ By 2030, upgrade infrastructure and retrofit industries to make them sustainable
 
 Investment in infrastructure and innovation are crucial drivers of economic growth and development. With over half the world population now living in cities, mass transport and renewable energy are becoming ever more important, as are the growth of new industries and information and communication technologies. Technological progress is also key to finding lasting solutions to both economic and environmental challenges, such as providing new jobs and promoting energy efficiency. Promoting sustainable industries, and investing in scientific research and innovation, are all important ways to facilitate sustainable development. More than 4 billion people still do not have access to the Internet, and 90 percent are from the developing world. Bridging this digital divide is crucial to ensure equal access to information and knowledge, as well as foster innovation and entrepreneurship.
 
-**SDG 10: Reduced Inequality**
-
-Sustainable Development Goal (SDG) 10 aims to reduce inequality within and among countries.
- 
-_Targets_
-  
-Inequality can be based on factors like age, gender, disability, race, ethnicity, origin, religion, or economic status. 
-  
-Inequality can be based on factors like representation, migration, and development assistance.
-  
-Targets for SDG 10 include eliminating discriminatory laws, policies, and practices, and adopting policies to achieve greater equality. 
-  
-
-When we talk about Reducing Inequality, it's really about making sure everyone, no matter who they are or where they come from, has the same opportunities to succeed. In the classroom, this could mean discussing what inequality looks like—why some people face more challenges based on things like income, gender, or background—and brainstorming ways to help level the playing field. Students can dive into real-world examples of governments and organizations working to reduce these gaps, and even create their own initiatives to promote equality in their school or community. Imagine starting a peer tutoring program to help kids from underprivileged backgrounds, or organizing a campaign that raises awareness about discrimination. It’s about empowering students to see that they can be part of the solution.
 
 **SDG 11: Sustainable Cities and Communities**
 
