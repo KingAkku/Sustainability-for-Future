@@ -5,6 +5,27 @@ This module will introduce students to the United Nations Sustainable Developmen
 
 **Unit 1: Environmental Sustainability (SDGs 6, 7, 13, 14, 15)**
 
+**SDG 6: Clean Water and Sanitation**
+
+Sustainable Development Goal 6 is a United Nations goal to ensure that everyone has access to clean water and sanitation.
+
+_Targets_
+
+By 2030, achieve universal and equitable access to safe and affordable drinking water for all.
+
+By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations.
+
+By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing the release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.
+
+By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity.
+
+By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate.
+
+By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes.
+
+
+Sustainable Development Goal 6 declares the importance of achieving "clean water and sanitation for all". The goal has eight targets to be achieved by 2030 covering the main areas of water supply and sanitation and sustainable water resource management. Progress toward the targets will be measured by using eleven indicators. The six key outcome targets are to Achieve universal and equitable access to safe and affordable drinking water for all. Achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations. Improve water quality, by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater (wastewater treatment) and substantially increasing recycling and safe reuse globally. Substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity. Implement integrated water resources management (IWRM), at all levels, including through transboundary cooperation as appropriate. Protect and restore water-related ecosystems including mountains, forests, wetlands, rivers, aquifers and lakes.
+
 
 **SDG 7: Affordable and Clean Energy**
 
@@ -22,11 +43,85 @@ By 2030, double the global rate of improvement in energy efficiency.
 
 By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology.
 
-By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States, and land-locked developing countries, in accordance with their respective programmes of support.
+By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States, and land-locked developing countries, in accordance with their respective programs of support.
 
 
 Lack of access to energy supplies and transformation systems is a constraint to human and economic development. The environment provides a series of renewable and nonrenewable energy sources i.e. solar, wind, hydropower, geothermal, biofuels, natural gas, coal, petroleum and uranium. Increased use of fossil fuels without actions to mitigate greenhouse gases will have global climate change implications. Energy efficiency and increase use of renewables contribute to climate change mitigation and disaster risk reduction.
 Maintaining and protecting ecosystems allow using and further developing hydropower sources of electricity and bioenergy.
+
+**SDG 13: Climate Action**
+
+Sustainable Development Goal 13 is to take urgent action to combat climate change and its impacts.
+
+_Targets_
+
+Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries.
+
+Integrate climate change measures into national policies, strategies, and planning.
+
+Improve education, awareness-raising, and human and institutional capacity on climate change mitigation, adaptation, impact reduction, and early warning.
+
+Implement the commitment undertaken by developed-country parties to the United Nations Framework Convention on Climate Change to a goal of mobilizing jointly $100 billion annually by 2020 from all sources to address the needs of developing countries in the context of meaningful mitigation actions and transparency on implementation and fully operationalize the Green Climate Fund through its capitalization as soon as possible
+
+Promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries and small island developing States, including focusing on women, youth, and local and marginalized communities.
+
+
+The key goal of SDG 13 is to take urgent action on climate change to end it and its dangerous impacts. This is because the presence of climatic change is ranked to become among the greatest threats to human societies at their current day-to-day actions today, affecting the ecosystems economies, and livelihoods all around the world. This would also result in frequent extreme weather conditions, increases in sea level, and habitations further destroyed. Some of the key objectives for SDG 13 include building resilience and adaptive
+capacity to climate-related hazards, integrating climate change concerns into national policies and planning, and strengthening education for sustainable development in fostering resource-efficient, sustainable lifestyles, and renewable energies.
+
+**SDG 14: Life Below Water**
+
+Sustainable Development Goal 14 is about the conservation and sustainable use of the oceans, seas, and marine resources.
+
+_Targets_
+
+By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution.
+
+By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans.
+
+Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels.
+
+By 2020, effectively regulate harvesting and end overfishing, illegal, unreported, and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics.
+
+By 2020, conserve at least 10 percent of coastal and marine areas, consistent with national and international law and based on the best available scientific information.
+
+Provide access for small-scale artisanal fishers to marine resources and markets.
+
+
+The SDG 14 is to conserve and sustainably use the oceans, seas, and marine resources for sustainable development. Oceans occupy over 70% of the Earth's surface and give us life on Earth. Through their management, they afford the opportunity to ensure at least some 'balance of global climate', provide oxygen, and represent the vital source of food and livelihoods for millions of inhabitants. More key priorities by the implementation of SDG 14 include: eliminating and reducing marine pollution significantly, mainly caused by land-based activities such as plastics; conserving effective marine and coastal ecosystems so as not to cause significant adverse changes; and ending overfishing while bringing an end to IUU fishing.
+
+**SDG 15: Life on Land**
+
+Sustainable Development Goal 15, also known as "Life on Land", aims to protect and sustainably use terrestrial ecosystems, such as forests, wetlands, mountains, and drylands.
+
+_Targets_
+
+Ensure the conservation, restoration, and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains, and drylands, in line with obligations under international agreements.
+
+By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests, and substantially increase afforestation and reforestation globally.
+
+By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought, and floods, and strive to achieve a land degradation-neutral world.
+
+Ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development.
+
+Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity, and, by 2020, protect and prevent the extinction of threatened species.
+
+
+The SDG 15 focuses on sustainably managing forests, combating desertification, and halting biodiversity loss. The earth's forests cover about 31% of the planet's land, provide essential ecosystem services, and are home to more than 80% of all terrestrial species of animals, plants, and insects. Yet, forests are under pressure from illegal logging, land conversion to agriculture, and unsustainable management practices. Moreover, desertification, the degradation of arid and semi-arid land, affects over 2 billion people, with some of the most vulnerable regions being Africa and Asia.
+
+The main goal are:
+
+Combat desertification.
+
+Halt and reverse land degradation.
+
+Halt biodiversity loss.
+
+Conserve mountain ecosystems.
+
+Protect threatened species.
+
+Promote fair sharing of genetic resources.
 
 
 **Unit 2: Social Sustainability (SDGs 1, 2, 3, 4, 5, 10, 16)**
@@ -95,6 +190,58 @@ Prevent and treat substance abuse.
 
 
 Good health and well-being aspire to ensure health and well-being for all, including a bold commitment to end the epidemics of aids, tuberculosis, malaria, and other communicable disease by 2030. Universal health coverage: providing universal health coverage.Research and development: increasing research and development. Health risk management: strengthening the capacity of all countries in health risk reduction and management. It also aims to achieve universal health coverage and provide access to safe and effective medicines and vaccines for all.
+
+**SDG 4: Quality Education**
+
+Sustainable Development Goal 4 is the United Nations' goal to ensure quality education for all and promote lifelong learning.
+
+_Targets_
+
+By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and Goal-4 effective learning outcomes.
+
+By 2030, ensure that all girls and boys have access to quality early childhood development, care and preprimary education so that they are ready for primary education.
+
+By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university.
+
+By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship.
+
+By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations.
+
+By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.
+
+
+The main aims are:
+
+Ensure that all children complete free primary and secondary school by 2030.
+
+Provide equal access to affordable vocational training.
+
+Eliminate gender and wealth disparities.
+
+Achieve universal access to quality higher education.
+
+Ensure that all learners acquire the knowledge and skills needed to promote sustainable development.
+
+**SDG 5: Gender Equality**
+
+Sustainable Development Goal 5 is the goal to achieve gender equality and empower all women and girls.
+
+_Targets_
+
+End all forms of discrimination against all women and girls everywhere.
+
+Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation.
+
+Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation.
+
+Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate.
+
+Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life.
+
+Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels.
+
+
+Gender equality  Sustainable Development Goal 5  concerns gender equality and is the fifth of the 17 Sustainable Development Goals established by the United Nations in 2015. The 17 SDGs recognize that action in one area will affect outcomes in others, and that development must balance social, economic and environmental sustainability. SSG5 aims to end all forms of discrimination against women and girls everywhere. Ending violence and exploitation of women and girls. Eliminating harmful practices such as child early and forced marriage and female genital mutilation. Increasing the value of unpaid care and promoting shared domestic responsibilities.ensuring full participation of women in leadership and decision-making. Ensuring access to universal reproductive rights and health. The three means of implementation are fostering equal rights to economic resources, property ownership, and financial services for women. Promoting empowerment of women through technology. Adopting and strengthening policies for gender equality, and supporting legislation to enforce it.
 
 **SDG 10: Reduced Inequality**
 
@@ -252,5 +399,5 @@ Promote a universal trading system under the WTO.
 Increase the exports of developing countries.
  
 
-Development Goal seventeen focuses on building synergies and partnerships between governments, businesses as well as organizations for the purpose of enhancing all sdgs, including sdg 16. This means that no country or organization can achieve these global goals by itself—collaborative approach is very important. This means working together within local, national, and international systems in order to mitigate the impediments to sustainable development in terms of resources, information, and assistance.
+Development Goal seventeen focuses on building synergies and partnerships between governments, businesses as well as organizations for the purpose of enhancing all sdgs, including sdg 16. This means that no country or organization can achieve these global goals by itself a collaborative approach is very important. This means working together within local, national, and international systems in order to mitigate the impediments to sustainable development in terms of resources, information, and assistance.
 
